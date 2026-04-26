@@ -1,0 +1,19 @@
+﻿# Data files — never push raw or clean data to GitHub
+data/raw/
+data/clean/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+env/
+venv/
+
+# Environment
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db
